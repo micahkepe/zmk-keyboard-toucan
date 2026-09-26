@@ -1,0 +1,7 @@
+# `west update` generated bindings
+cirque-input-module/
+modules/
+zmk-rgbled-widget/
+zephyr/
+!zephyr/module.yml
+zmk
